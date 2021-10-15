@@ -3,9 +3,9 @@
     "name": "Roblox ping checker",
     "descripton": "Ping checker for roblox.",
     "version": "1.0.0",
-    "icons": {"128": "acid_128x128.png"},
+    "icons": {"128": "roblox_128x128.png"},
     "browser_action": {
-        "default_icon": "acid_19x19.png"
+        "default_icon": "roblox_19x19.png"
     },
     "content_scripts": [{
         "matches": ["https://www.roblox.com/*"],
